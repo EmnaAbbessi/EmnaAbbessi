@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emna Abbassi</h1>
-<h3 align="center">A passionate  developer from Tunisia living in Germany </h3>
+<h3 align="center">A passionate developer from Tunisia, embracing new adventures in Germany </h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbassiemna&label=Profile%20views&color=0e75b6&style=flat" alt="abbassiemna" /> </p>
