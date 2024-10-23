@@ -6,9 +6,15 @@
 
 - 🔭 I’m currently working on project [medicolges](https://github.com/maGNICHI/MedicolGes.git)
 
+- 🔭 I’m currently working on project [laravel](https://github.com/maGNICHI/EcoVoyageur.git)
+
+- 🔭Angular-springboot project  [Renovact](https://github.com/eya161/4TWIN5-RenovAct.git)
+
+- 🔭 E-Fit project Symfony-Java-Mobile [symfony](https://github.com/MaramBr/PIDEV.git) [mobile](https://github.com/Majdi-ML/Sprint3-Mobile.git) [java](https://github.com/MaramBr/Sprint2.git)
+
 - 🌱 I’m currently in Germany learning **data science, finance**
 
-- 💬 Ask me about **react , angular , node js**
+- 💬 Ask me about **react , angular , node js , spring boot ,mongodb **
 
 - 📫 How to reach me **emna.abbassi01@gmail.com**
 
