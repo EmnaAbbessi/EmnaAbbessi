@@ -12,6 +12,8 @@
 
 - 🔭 E-Fit project Symfony-Java-Mobile [symfony](https://github.com/MaramBr/PIDEV.git) [mobile](https://github.com/Majdi-ML/Sprint3-Mobile.git) [java](https://github.com/MaramBr/Sprint2.git)
 
+- 🔭 SmartPrit QT C++   [SmartPrint](https://github.com/khaledg4g/smart-printing-office-2A6.git)
+
 - 🌱 I’m currently in Germany learning **data science, finance**
 
 - 💬 Ask me about **react , angular , node js , spring boot ,mongodb **
