@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbassiemna&label=Profile%20views&color=0e75b6&style=flat" alt="abbassiemna" /> </p>
 
+- 🔭 I’m currently working on project [Service Synchro ERP](https://github.com/EmnaAbbessi/stock-sync-service-ERP-Sage.git)
+
 - 🔭 I’m currently working on project [medicolges](https://github.com/maGNICHI/MedicolGes.git)
 
 - 🔭 I’m currently working on project [laravel](https://github.com/maGNICHI/EcoVoyageur.git)
